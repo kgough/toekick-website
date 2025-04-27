@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services - Toe Kick Development</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<header class="hero services-hero">
+<h1>Our Services</h1>
+</header>
+
+<main>
+<section>
+<ul>
+<li>Entitlements and Permitting</li>
+<li>Land Development</li>
+<li>Residential, Commercial, and Industrial Projects</li>
+<li>Civil, Structural, and Geotechnical Engineering</li>
+<li>Construction Oversight</li>
+<li>Street Work and Infrastructure</li>
+<li>Project Management and Consulting</li>
+</ul>
+</section>
+</main>
+
+<footer>
+<p>© 2025 Toe Kick Development</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+toekick-website/
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+└── assets/
+├── style.css
+└── logo.png
